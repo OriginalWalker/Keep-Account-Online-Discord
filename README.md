@@ -36,4 +36,4 @@ I recommend these two websites for free hosting
 <a href="https://t.me/OriginallyWalker" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="OriginallyWalker" ></a>
 
 
-Copyright ©️ Walker
+Copyright ©️ 2023 Walker
